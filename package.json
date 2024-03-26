@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "netic-shard",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,8 +10,15 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.5.9",
     "@astrojs/check": "^0.5.10",
+    "astro": "^4.5.9",
     "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/parser": "^7.4.0",
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.5",
+    "prettier-eslint": "^16.3.0",
+    "prettier-plugin-astro": "^0.13.0"
   }
 }
