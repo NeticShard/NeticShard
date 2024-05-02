@@ -1,5 +1,5 @@
-<!-- Source: https://github.com/catcto/sitemap-stylesheet -->
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/catcto/sitemap-stylesheet -->
 <xsl:stylesheet version="1.0"
     xmlns:sm="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
