@@ -4,11 +4,33 @@ import Layout from "../layouts/Layout.astro";
 
 <Layout title="NeticShard">
   <main>
-    <h1>"{"NeticShard"}" is still in progress</h1>
+    <h1 style="display: none;">{"NeticShard"}</h1>
+    <div id="container">
+      <h2>Project in progress</h2>
+
+      <ul>
+        <li>
+          LinkedIn:
+          <a target="_blank" href="https://www.linkedin.com/company/neticshard"
+            >@neticshard</a
+          >
+        </li>
+        <li>
+          GitHub:
+          <a target="_blank" href="https://github.com/NeticShard">@NeticShard</a
+          >
+        </li>
+      </ul>
+    </div>
   </main>
 </Layout>
 
 <style>
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
   main {
     margin: auto;
     padding: 1rem;
@@ -19,11 +41,28 @@ import Layout from "../layouts/Layout.astro";
     line-height: 1.6;
   }
 
-  h1 {
+  a {
+    color: #535c91;
+  }
+
+  a:hover {
+    color: #9290c3;
+  }
+
+  #container {
+    margin: auto;
+  }
+
+  #container h2 {
     font-size: 1.5rem;
     font-weight: 700;
     line-height: 1;
     text-align: center;
     margin-bottom: 1em;
+  }
+
+  #container ul {
+    list-style: none;
+    text-align: center;
   }
 </style>
