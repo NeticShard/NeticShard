@@ -31,7 +31,7 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
 
 -------------------------------------------------------------------------------
-| Luis Quinones Requelme <lpaandres2020@gmail.com>                            |
+| Luis Quinones Requelme <luis.quinones@neticlabs.com>                        |
 | Gabriel dos Santos Schmitz <gabrielzschmitz@protonmail.com>                 |
 |                                                                             |
 ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
